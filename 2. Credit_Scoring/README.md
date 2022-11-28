@@ -42,4 +42,9 @@
 В итоге выявили, что лучшая модель - DecisionTreeClassifier.
 
 **Используемые инструменты**
+
 pandas, numpy, sklearn
+
+**Ссылка на nbviewer**
+
+https://nbviewer.org/github/KsenyaDS/Yandex_Practicum/blob/master/2.%20Credit_Scoring/kredit.ipynb#conclusion
