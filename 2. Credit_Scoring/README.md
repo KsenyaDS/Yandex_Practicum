@@ -47,4 +47,4 @@ pandas, numpy, sklearn
 
 **Ссылка на nbviewer**
 
-https://nbviewer.org/github/KsenyaDS/Yandex_Practicum/blob/master/2.%20Credit_Scoring/kredit.ipynb#conclusion
+https://nbviewer.org/github/KsenyaDS/Yandex_Practicum/blob/master/2.%20Credit_Scoring/kredit.ipynb 
