@@ -44,3 +44,8 @@
 **Используемые инструменты**
 
 pandas, numpy, sklearn, matplotlib
+
+**Ссылка на nbviewer**
+
+https://nbviewer.org/github/KsenyaDS/Yandex_Practicum/blob/master/2.%20Credit_Scoring/kredit.ipynb 
+
